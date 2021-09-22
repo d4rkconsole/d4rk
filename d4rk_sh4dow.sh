@@ -51,12 +51,10 @@ elif [ $num = "4" ]
 then 
         clear
 	echo -n " [+] Enter How many ports you want to SCAN -->> " 
-	read ports 
-	echo -n " [+] Enter spoof source address -->> " 
-	read spoof
+	read ports  
 	echo " [+] SCANNING PORTS WITH NMAP :) [+] " 
 	echo " ------------------------------------------------------------------------ " 
-	nmap -sS $target -p $ports -sV -O -S $spoof --reason 
+	nmap -sS $target -p $ports -sV -O  --reason 
 elif [ $num = "5" ]
 then
 	clear
