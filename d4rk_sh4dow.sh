@@ -7,7 +7,7 @@ echo "      [!] Disclamer:  PLEASE ONLY USE THIS TOOL FOR EDUCATION PURPOSES  [!
 echo " -----------------------------------------------------------------------------------------------------------------  "
 echo " [+] ALL IN ONE TOOL  [+] ---> Tool Created by d4rk sh4d0w -->> [+]
 
-	-->> My FRIENDS  - youAnons0u1,lorian synaro "
+	
 echo "  ---------------------------------------------------------------------------------------------------------------- " 
               
 
